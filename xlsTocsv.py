@@ -5,7 +5,7 @@ import os
 import getopt
 
 #converts directory of xls files to csv files
-#csv naming = 
+#csv naming = xlsname_sh{i}
 
 def usage():
 	print 'Usage : ' 
